@@ -1,3 +1,9 @@
+# Ignore raw dataset
+creditcard.csv
+
+# Ignore whole data/ folder
+data/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
